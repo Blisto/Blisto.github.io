@@ -14,7 +14,7 @@ html{
   padding: 0;
   width: 1280px;
   height: 216px;
-  background-image: url(/img/gbf_img/top3.png);
+  background-image: url(/gbf/img/gbf_img/top3.png);
   display: flex;
 }
 .tittle-text{
@@ -67,7 +67,7 @@ html{
   
 }
 .googleplay-icon{
-  background-image: url(/img/gbf_img/1200px-Get_it_on_Google_play.svg.png);
+  background-image: url(/gbf/img/gbf_img/1200px-Get_it_on_Google_play.svg.png);
   background-size:contain;
   background-repeat:no-repeat;
   background-position:center,center;
@@ -84,7 +84,7 @@ html{
   padding: 0;
   width: 1280px;
   height: 150px;
-  background-image: url(/img/gbf_img/fram2.png);
+  background-image: url(/gbf/img/gbf_img/fram2.png);
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -429,7 +429,7 @@ html{
   padding: 0;
   width: 1280px;
   height: 153px;
-  background-image: url(/img/gbf_img/down2.png);
+  background-image: url(/gbf/img/gbf_img/down2.png);
   display: flex;
   align-items: center;
 
